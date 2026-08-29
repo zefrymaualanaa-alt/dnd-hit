@@ -13,7 +13,7 @@ let globalAccountIndex = 0;
 
 // --- DATABASE & SETTING OWNER ---
 const USER_DB_FILE = 'users.json'; 
-const OWNER_ID = 7656926514; 
+const OWNER_ID = 8506741718; 
 const REQUIRED_CHANNEL = '@DNDSTOREONTELE'; 
 
 // --- FUNGSI PEMETAAN NEGARA & BENDERA KOMPLIT ---
